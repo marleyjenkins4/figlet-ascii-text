@@ -33,7 +33,7 @@ int totalresult;
         	cout << "Enter another lucky number!: " << endl;
 		cin >> userinput2;
 		}
-	if (totalresult<= 4 && totalresult >= 0){
+	if (totalresult<= 6 && totalresult >= 0){
 		cout << "Think Bigger" << endl;
 		 cout << "Enter a lucky number!: " << endl;
                 cin >> userinput;
