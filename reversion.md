@@ -1,6 +1,5 @@
 function sayHello(name)
 {
-	
 	console.log("Hola " + name);
 }
 
