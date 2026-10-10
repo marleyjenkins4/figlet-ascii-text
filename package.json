@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/marleyjenkins4/figlet-ascii-text#readme",
   "dependencies": {
-    "figlet": "^1.2.4"
+    "figlet": "^1.11.3"
   }
 }
